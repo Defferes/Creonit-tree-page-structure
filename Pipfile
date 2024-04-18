@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+django-mptt = "*"
+djangorestframework = "*"
+django-ninja = "*"
 
 [dev-packages]
 
